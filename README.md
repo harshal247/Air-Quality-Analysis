@@ -10,7 +10,7 @@ Pip (Python package installer)
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/air-quality-forecasting.git
+git clone https://github.com/harshal247/air-quality-forecasting.git
 
 Navigate to the project directory:
 cd air-quality-forecasting
